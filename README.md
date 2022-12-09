@@ -6,7 +6,7 @@ Dependencies:
 - RubyGems
 - Jekyll
 
-## Setup
+## Local setup
 Make sure you have installed the required dependencies, then run:
 ```
 bundle
@@ -22,8 +22,9 @@ Run:
 ```
 bundle add webrick
 ```
+## Run a local server
 
-Run the website locally:
+To run the website on localhost use this command:
 ```
 bundle exec jekyll serve
 ```
