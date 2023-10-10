@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kit Joll
+title: George Drayson
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  George Drayson's personal website.
 twitter_username: username
-github_username: username
+github_username: GeorgeDrayson
 minimal_mistakes_skin: dark
 search: true
 
@@ -58,34 +56,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Kit Joll"
+  name   : "George Drayson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD student at the UCL Centre for AI || Foundational AI CDT || MEng Oxford University || Makers Graduate"
   links:
     - label: "London"
       icon: "fa fa-fw fa-map-marker"
       url: ""
-    - label: "UCL PhD in Physics"
+    - label: "UCL PhD in Computer Science"
       icon: "fa fa-fw fa-university"
       url: ""
-    - label: "Ox (MChem)"
+    - label: "Ox (MEng)"
       icon: "fa fa-graduation-cap"
       url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kjaj98"
+      url: "https://github.com/GeorgeDrayson"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/kit-joll-8926461b2/"
+      url: "https://www.linkedin.com/in/george-drayson-1999007/"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/GeorgeDrayson"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/kit-joll-8926461b2/"
+      url: "https://www.linkedin.com/in/george-drayson-1999007/"
       
 defaults:
   # _posts
